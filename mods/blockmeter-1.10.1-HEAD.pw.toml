@@ -1,0 +1,12 @@
+name = "blockmeter-1.10.1-HEAD"
+filename = "blockmeter-1.10.1-HEAD.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oGU9LXKC/versions/JGenKwMQ/blockmeter-1.10.1-HEAD.jar"
+hash-format = "sha1"
+hash = "4541424b1636256560bd22ce63bb4e8a77552d3e"
+
+[update.modrinth]
+mod-id = "oGU9LXKC"
+version = "JGenKwMQ"
