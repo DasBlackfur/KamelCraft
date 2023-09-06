@@ -45,7 +45,7 @@ metafile = true
 
 [[files]]
 file = "mods/ImmediatelyFast-1.1.26+1.20.1.pw.toml"
-hash = "2564ffe41747f4f2a80064177384945aff55ca9dcf012af0df403e3d339102c5"
+hash = "d3843eef6d4499c9907eba03548537fa36529f7aa3d45afd77bcc66e2e17ec6a"
 metafile = true
 
 [[files]]
@@ -110,22 +110,22 @@ metafile = true
 
 [[files]]
 file = "mods/Terralith_1.20.1_v2.4.3.pw.toml"
-hash = "4ff9184803f0c816bb709d19fc6e02dc62338b1c3cc560c9d38d0edb9e612e8a"
+hash = "b552aa0354b23653ab1997a84fb63a73ad970987e01cca2c7f3c30093769f4fe"
 metafile = true
 
 [[files]]
 file = "mods/XaerosWorldMap_1.32.0_Fabric_1.20.pw.toml"
-hash = "616f8bc6776f6205052492577626f26171bf610ee3525468c6af68ad8ec82e1e"
+hash = "0fe67f0117a6bae30573cbb322661fe5bd1154bcddb9f191291ae0a141da52bf"
 metafile = true
 
 [[files]]
 file = "mods/Xaeros_Minimap_23.6.1_Fabric_1.20.pw.toml"
-hash = "6bc1828e0311ffe3933d9e1d4dbde3273fa72a9c7971415144e867e455d606fa"
+hash = "01f567b8a53ab64405b6c42f30600a84c9fb92bed5f587fd9e7ddf2cfc34df37"
 metafile = true
 
 [[files]]
 file = "mods/Zoomify-2.11.0.pw.toml"
-hash = "0ee18a7b0889b5e600db7328a2f791f4e2306cc2b9d24419e40e78e824a63b70"
+hash = "221586480516abaa2583db08ee1a3e4b538a064d1ccd6870493ce31a3975066d"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric-mc1.20.1-0.2.0+alpha.10.96.pw.toml"
-hash = "b5fd5676cdfc32e02648f3afa38df736c79393c26a23eaee042fce26f52e0581"
+hash = "4c32d6f64f387831858bf86f6a2b1ae5a33d49692ad3e4d2bc67582b2637edc2"
 metafile = true
 
 [[files]]
@@ -219,8 +219,9 @@ hash = "385689825f4fdea2563e3dbfb53eb4a4a043f18e464ff1cfbf304240ff5cb65f"
 metafile = true
 
 [[files]]
-file = "mods/early-loading-screen-0.1.0.jar"
-hash = "bcb376f419d350de0b7fc39c2368773180919892ac067c9becd262ca99eee99e"
+file = "mods/early-loading-screen.pw.toml"
+hash = "8a20ee839497c47ad85a15ec75279a35eefe685663f5151c23d8a4c13bfd44b0"
+metafile = true
 
 [[files]]
 file = "mods/elytraslot-fabric-6.3.0+1.20.1.pw.toml"
@@ -249,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api-0.86.1+1.20.1.pw.toml"
-hash = "752b1ff29a11ccd7cf2f5468a5e444f139f1eb69ed8c9e98380746b24e22f710"
+hash = "58600381d99016f87460ab1edd7a43ef77c8b9f5a75b477dd2bfb4da87af32a8"
 metafile = true
 
 [[files]]
@@ -308,6 +309,11 @@ hash = "fa24e24b038d10f6ed15abc2f37ebd989d9aed96517b75fb8a396071ce09e449"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs-fabric-1.20-15.0.0.pw.toml"
 hash = "12d459af971dc07ad3d7684a612f580d51ba44f9c963b154c889c0191a1a860d"
 metafile = true
@@ -354,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-fabric-5.6.0+mc1.20.1.pw.toml"
-hash = "647ec23a266950337599af12098516e15e5dd16fcac656da4ca43b7e8ee5a534"
+hash = "ca86eb8520edd1e2f29ec0c68c305480f7263b2e9e90a576dfc888ce75437657"
 metafile = true
 
 [[files]]
@@ -399,12 +405,12 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed_structures-7.0.0+1.20-fabric.pw.toml"
-hash = "1000fbfce71a44a6098e49e7d54da191f08528c12604787efdd432bef0982e13"
+hash = "78fa1f78939aa521a518349936645f5d9df96e520e2ebd9d096aee7a8d3b2afb"
 metafile = true
 
 [[files]]
 file = "mods/resourcefullib-fabric-1.20.1-2.1.9.pw.toml"
-hash = "0af61f60c88bb4f6750b6d056f7fd3cdd55e534c3d0d0b22fb58a7cf5b841394"
+hash = "a897a960ae8e3378d49318b4ef8997bf71bad5009dc99a427e9395f61f20f47b"
 metafile = true
 
 [[files]]
@@ -414,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin-1.6.9+1.20.pw.toml"
-hash = "74e51f682ee0a09e35d8c41297077d1aa3e7985668622bd13a4865408624c73b"
+hash = "0d4a49f99f1e5179d3a95ab46a572cfc9fdba6b9adda628d2210378d19d9900b"
 metafile = true
 
 [[files]]
@@ -439,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark-1.10.42-fabric.pw.toml"
-hash = "f0ae7e8cd2dc0672ed6dfbc1b3f3e46269c7f76f7d526d0c51109373fef0c1fe"
+hash = "2168b29bd4a99b3edee580bbe0fd3e213279d9f5a8d50ae654f997b1ef5b4fd5"
 metafile = true
 
 [[files]]
@@ -499,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric-mc1.20.1-0.2.0+beta.7.100-all.pw.toml"
-hash = "0523325058af6413690f8b2c5b56969eba6ab6071b7042b5569549f70d9ac5a8"
+hash = "9eda7266eb923109c3c1a13cacd8de61cda5a640ba800f5de77602f551676535"
 metafile = true
 
 [[files]]
@@ -509,5 +515,13 @@ metafile = true
 
 [[files]]
 file = "mods/yet-another-config-lib-fabric-3.1.0+1.20.pw.toml"
-hash = "c2153000cbfbc7866fb8a0409308e91ab9df93c93de84fd1cd2b9de4d5059523"
+hash = "aa484eb8314119c99677922adc0495b197169a821c5481d68f54a4da712e70cf"
 metafile = true
+
+[[files]]
+file = "world/datapacks/anti enderman grief v1.1.4 (MC 1.20.x).zip"
+hash = "aec906490dcca50a18500f35b5b0eebcfdd6d8da517cb31d0c90ef28e62c14b7"
+
+[[files]]
+file = "world/datapacks/more mob heads v2.12.1 (MC 1.20.x).zip"
+hash = "bbd54fdc8cde1f57ce07a111a0008703f7a7fd4047047a5705b02573656ca561"
