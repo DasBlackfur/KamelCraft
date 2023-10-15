@@ -1,15 +1,15 @@
 name = "KamelCraft"
 author = "Blackfur"
-version = "0.11.0"
+version = "0.12.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f2500b744f8316543b08c037ff125ef47a4acb3fc7138cd51fe93511236d53f2"
+hash = "129e79dc70c4a0a196edbf9723b7e5689f2bfc73f3c6d1728ac9488ac4f9c63b"
 
 [versions]
-fabric = "0.14.22"
+fabric = "0.14.23"
 minecraft = "1.20.1"
 
 [options]
