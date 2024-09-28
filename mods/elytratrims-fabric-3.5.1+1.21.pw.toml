@@ -1,0 +1,12 @@
+name = "elytratrims-fabric-3.5.1+1.21"
+filename = "elytratrims-fabric-3.5.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XpzGz7KD/versions/EZEb7Krx/elytratrims-fabric-3.5.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "254361bcbd5f6d834986eb591197327c73b6dcc51d3ec4790e59e27bcc03b98d25a39d31e3f8a143a5e04b04f72759a5e9678c8e83f94139019dff4fccfdc568"
+
+[update.modrinth]
+mod-id = "XpzGz7KD"
+version = "EZEb7Krx"
