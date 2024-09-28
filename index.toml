@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/EMIProfessions-fabric-1.21.1-1.0.1.pw.toml"
-hash = "bf3375b6728dc4f01e091057aa24c440022f70dbde6aa7cfc75407de4c414606"
+hash = "aefdff6df041afb539b21184d3feff4f8ce3e9b4966b768dacc65c1671d94dba"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/actually-camel.pw.toml"
-hash = "528727f38606b5ad6bab553276a73fa58807c79f7b0038c980e7d6a5dddcc888"
+hash = "1708150c65ffdadbbad8c7074ed5c567c0809a2bf485cc738a873fd970d8313b"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-fabric-1.21-4.0.1.pw.toml"
-hash = "e7a9b6152e3fd425588ffd99e5c5267e2f3cece1329030b2b25a2f3656717eeb"
+hash = "dd98333aacd53d5f2316ceea3b454a62581bb2aeb5f1384505300128a0046a8d"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/do_a_barrel_roll-fabric-3.6.2+1.21.pw.toml"
-hash = "ce341ec5c4925b44d01935a3071dcebb84eac32a89125f229f8d3d1d98bf2176"
+hash = "55d776ff3a0c0cbec575bbcf7aea678c2a829164cab897fed21ac9e82898ccaf"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi_enchanting-0.1.2+1.21.pw.toml"
-hash = "0514de4bd82081de00009bc2ff934dff3cd4fda57ebcb3514711076f1c53ec43"
+hash = "25e2d5e16bba888eebf7365ef8f0ff825be93507ba37ef6ac70a3e253b94af04"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu_fabric_3.2.5_MC_1.21.pw.toml"
-hash = "04e1f54785ad003b6eeb81e279c92156d13b59eba64c138ce706498be795fb21"
+hash = "5973df1895aaf2f23e60e891f7f396594bdde8fe474713a488d41bc14f0b50a4"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody_fabric_1.0.10_MC_1.21.pw.toml"
-hash = "0fff2eb65144ecc8189e48ca10903529d7187d344d78744450303b9019a88e1b"
+hash = "e95883c37f80d03abd3d81a2137607031589a40ae6ddc88e9597f194b9fb3183"
 metafile = true
 
 [[files]]
@@ -493,6 +493,11 @@ metafile = true
 [[files]]
 file = "mods/wakes-0.3.0+1.21.1.pw.toml"
 hash = "6c0d38f331c64ebb98566c9860ca26f705ed4b67797b0d724847cd20d2e69f1c"
+metafile = true
+
+[[files]]
+file = "mods/zombie-conversion.pw.toml"
+hash = "357c6da2d89d4ed7bc8d422a5f3b78ba71a958aa2c7bc2c0e0ebb07f9c5ea10c"
 metafile = true
 
 [[files]]
