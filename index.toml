@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/Chunky-1.4.16.pw.toml"
-hash = "81dc2ab056b901fef9ce6a928a818ee5e461eacb82fa5a86242d96e29004e2c3"
+hash = "946d84784bec95c0586dccc58d0439a7ed02e1a9f5bccb771124ca6841f4746f"
 metafile = true
 
 [[files]]
@@ -94,11 +94,6 @@ metafile = true
 [[files]]
 file = "mods/CreativeCore_FABRIC_v2.12.16_mc1.21.1.pw.toml"
 hash = "4a920f45d65acadfa555874445fe9151cedf22c555f2c5204b3e589edac68b33"
-metafile = true
-
-[[files]]
-file = "mods/Debugify-1.21.1+1.0.pw.toml"
-hash = "19ebcf5dede4290832e63925e16605c379f5178529e2e5080e09f617e70c0348"
 metafile = true
 
 [[files]]
@@ -254,11 +249,6 @@ metafile = true
 [[files]]
 file = "mods/doubledoors-1.21.1-5.9.pw.toml"
 hash = "0ea994775a187b158936e95dc7b019419a3dbe7abd61d3e5fdbd4ecf1545d14d"
-metafile = true
-
-[[files]]
-file = "mods/drippyloadingscreen_fabric_3.0.7_MC_1.21.pw.toml"
-hash = "2c9c0d20f310700527299e74a874e0af492678ec0adfac7c05fcfb20591320ea"
 metafile = true
 
 [[files]]
