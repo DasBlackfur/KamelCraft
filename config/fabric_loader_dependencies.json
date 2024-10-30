@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "overrides": {
+        "ibo": {
+            "-depends": {
+                "incendium": "IGNORED"
+            },
+            "+depends": {
+                "incendium": "5.x"
+            }
+        }
+    }
+}

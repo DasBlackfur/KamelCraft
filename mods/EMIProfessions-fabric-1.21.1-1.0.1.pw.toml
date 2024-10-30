@@ -1,12 +1,13 @@
 name = "EMIProfessions-fabric-1.21.1-1.0.1"
-filename = "EMIProfessions-fabric-1.21.1-1.0.1.jar"
+filename = "EMIProfessions-fabric-1.21.1-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LGVihYcz/versions/aMClrv90/EMIProfessions-fabric-1.21.1-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/LGVihYcz/versions/jsB51EfG/EMIProfessions-fabric-1.21.1-1.0.2.jar"
 hash-format = "sha512"
-hash = "8de88021a6e0d9937ce0ec97d77c05c5567cdf9ec4cc879e520f2345cf45798ba4e36730d4c50c9174212ab4b394d72ffc05715f854cad9a4c3761e5b41e0b9e"
+hash = "2b9bf15cd0456824028a53bd3b54f132874d048cd5e628ce304143117409aff420a4192aa42c395457760c60368a8e3aa2cad5fd7f0fe1ab46af214859db848f"
 
+[update]
 [update.modrinth]
 mod-id = "LGVihYcz"
-version = "aMClrv90"
+version = "jsB51EfG"

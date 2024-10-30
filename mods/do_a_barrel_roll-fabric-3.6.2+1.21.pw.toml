@@ -1,12 +1,13 @@
 name = "do_a_barrel_roll-fabric-3.6.2+1.21"
-filename = "do_a_barrel_roll-fabric-3.6.2+1.21.jar"
+filename = "do_a_barrel_roll-fabric-3.7.2+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/OjBr3egj/do_a_barrel_roll-fabric-3.6.2%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/cjzbJxI2/do_a_barrel_roll-fabric-3.7.2%2B1.21.jar"
 hash-format = "sha512"
-hash = "21b824b59bdd18d075767ba9122b1bea7cd0edb21f10d136a7ebce37f15af865e0d20c9b22f0e70b88c6a016c0e63ccc4004c7763ce2a940409c43a4b5cdbff6"
+hash = "bdc410f467e79ac3d981c31b496cc25e3601afc55e0c1e6ffb5982ada91d66c7b8d811f80f1ca05a673e6a8ba63d7a236ba1c9eb5aa140ad681a3fa3ed955b80"
 
+[update]
 [update.modrinth]
 mod-id = "6FtRfnLg"
-version = "OjBr3egj"
+version = "cjzbJxI2"

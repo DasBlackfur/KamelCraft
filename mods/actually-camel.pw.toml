@@ -3,11 +3,11 @@ filename = "actually-camel-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nNuyKQwp/versions/9qBaE1Iz/actually-camel-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/nNuyKQwp/versions/2nBxNtjl/actually-camel-1.0.0.jar"
 hash-format = "sha512"
-hash = "472a16418ea8c25c3cd43cce9f2f4609e192ffcb855b7aa6717ddc46e0bc3b18c5f83976f2f40d54e802d997bc410c5eb80937e2c99af333d58af73aeec46bee"
+hash = "0470e7990ead21ee72318861961e4491305cb1b777c05663ec73b9dc559b134af054b3391a2a0a271e8da35989690f0fdbb224aefb30be2a884c2e52279d1ba1"
 
 [update]
 [update.modrinth]
 mod-id = "nNuyKQwp"
-version = "9qBaE1Iz"
+version = "2nBxNtjl"
