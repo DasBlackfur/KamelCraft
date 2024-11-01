@@ -45,8 +45,12 @@ file = "config/fancymenu/options.txt"
 hash = "f0f748797a783eb1ac54ca35e1eb42376b506ccc1d43082c4abe5d834bee6f62"
 
 [[files]]
+file = "config/xaerominimap-common.txt"
+hash = "02bd5eda62da8a88d32d780bad21df61ff9d6aa978e3caaff26b84cdbf892591"
+
+[[files]]
 file = "config/xaerominimap.txt"
-hash = "37f50e2b5de492d77ab884c967e612c4e60db68bade6c09f5edbbe9448b6c64a"
+hash = "1d39d4d613756ef88ea1d4633cbac2ded872597a65538261238ce7b5effc5afe"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -54,11 +58,11 @@ hash = "b54c6eedcb752d1235c6ea60dc365d4d1621c4c80768faaac4347e76d4e10a13"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "62ce6f5aeb533396410011268d76d241a77ddc88f71e2d258a742df9c3f30c7e"
+hash = "f144130da708bee0947366e60ed51c60a14f4df1a1ebd5842f6e89b03eb1a61e"
 
 [[files]]
 file = "mods/AmbientSounds_FABRIC_v6.1.2_mc1.21.1.pw.toml"
-hash = "4ec870049055bc0c4a7d1c4396e2211512d4c85f85a18da680cf190f22b13953"
+hash = "abf456b8bc6bbd4a93eab164a67978c5444d1dda416ca324b3fc4536afc78535"
 metafile = true
 
 [[files]]
@@ -113,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/ImmediatelyFast-Fabric-1.2.21+1.21.1.pw.toml"
-hash = "a5f29c3a2f63599e87d818df03e1f616d15543e3269392ec75d517e5a0704067"
+hash = "e738c81331626771dec8b7a20e8062e3c4c842c3fb1b2d06cc953a999e6ad3d6"
 metafile = true
 
 [[files]]
@@ -158,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/Xaeros_Minimap_24.4.0_Fabric_1.21.pw.toml"
-hash = "8a66218e47c31922cbc9ea059f9027be0961c2b9b7187fbe3f468357c0d46734"
+hash = "e872c63ac2d28d9b50bbe9ec2aad40929de9acd6c432bf7fa4ce1b465313cd76"
 metafile = true
 
 [[files]]
@@ -173,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin-fabric-mc1.21-3.0.5.pw.toml"
-hash = "9015c6acadbf11b048982e3ec616d859d38100f9de23c0ed2c675f37212639c3"
+hash = "2a0c0d297ceceaf2f6f8a087628e25997defe212ce98b2072f7ecd8d9213e010"
 metafile = true
 
 [[files]]
@@ -253,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps-3.7.3+minecraft-1.21.0-fabric.pw.toml"
-hash = "b2844bcbef89901ad516f9ada001a07378f7a2823b81c3b9c684206d3dd81d04"
+hash = "2a0cc93dddeded4194112ad5b2b8d1ff74d36b37c2523d574748f0fc548bf6eb"
 metafile = true
 
 [[files]]
@@ -268,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-1.1.13+1.21.1+fabric.pw.toml"
-hash = "d8ebd1fc76109cfb1c13fa815703d9a0f3106600d8d9fec29fbe1f61719cb8b9"
+hash = "bda72d18bc116d6ed3a4146580d0be49a21a8b19bbda4bcd13fdb6470fdd87b7"
 metafile = true
 
 [[files]]
@@ -403,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling-fabric-1.21.1-1.0.0-beta.1.pw.toml"
-hash = "4407fdb508984bb5eb136bd311415bb61ec6704d0a324129ee050fa90e76ac0c"
+hash = "53191d17f1b0ee0fc76ff74f79b6de80f567aceb7deebb12611a9efeada5ce7e"
 metafile = true
 
 [[files]]
@@ -423,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer-bundled-0.9.16+1.21.1.pw.toml"
-hash = "061de1cbf8ae4861f51965d88eebd8880a65aad2fa7087360248f7ed8771b8f0"
+hash = "ef6f58ba3203d9224dae60b3014bf9d2afa4e7e13c82ebed652c90ceaddfc688"
 metafile = true
 
 [[files]]

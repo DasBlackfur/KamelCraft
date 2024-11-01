@@ -1,12 +1,12 @@
 name = "KamelCraft"
 author = "Blackfur"
-version = "0.15.1"
+version = "0.16.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3dd691baf86c1df30b672f71a9a30569d5ca0feaafe1f88cfee4064d69a42ca7"
+hash = "97d1e89d522cfd9321ac8a928b6250e30b35ba39d2a0119ae85007f3b4a7a767"
 
 [versions]
 fabric = "0.16.7"
